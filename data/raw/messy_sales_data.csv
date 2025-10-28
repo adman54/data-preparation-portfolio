@@ -1,0 +1,44 @@
+transaction_id,customer_id,customer_email,product_sku,quantity,amount,currency,order_date,ship_country,payment_method,category
+TRX_001,CUST_1001,john.doe@gmail.com,PROD_ABC123,2,$1,234.56,USD,03/15/2024,USA,Credit Card,Electronics
+TRX_001,CUST_1001,john.doe@gmail,PROD_ABC123,2,$1234.56,,15-03-2024,United States,Credit Card,Electronics
+TRX_002,CUST_1002,,PROD_XYZ789,1,€890.00,EUR,2024/03/16,UK,PayPal,Clothing
+TRX_003,CUST_1003,sarah@yahoo,PROD_ABC123,-1,"2,340.00",USD,03/17/2024,US,Debit Card,Electronics
+TRX_004,CUST_1004,mike.jones@hotmail.com,PROD_DEF456,3,£567.89,GBP,18/03/2024,United Kingdom,Credit Card,Home & Garden
+TRX_005,CUST_1005,NULL,PROD_GHI789,1,$234.00,USD,2024-03-19,Canada,PayPal,Books
+TRX_006,CUST_1006,emma.wilson@gmail.com,PROD_JKL012,999,$45.67,USD,20/03/2024,USA,Credit Card,Toys
+TRX_007,CUST_1002,lisa.chen@outlook.com,PROD_MNO345,2,€1234,EUR,2024/03/21,Germany,Bank Transfer,Clothing
+TRX_008,CUST_1007,,PROD_PQR678,1,$890.00,USD,03-22-2024,United States,Credit Card,Electronics
+TRX_009,CUST_1008,david.kim@,PROD_STU901,0,$567.89,USD,23/03/2024,South Korea,PayPal,Sports
+TRX_010,CUST_1009,jennifer.lee@yahoo.com,PROD_ABC123,2,"1,234",USD,2024-03-24,usa,Debit Card,Electronics
+TRX_011,CUST_1010,NULL,PROD_VWX234,1,¥15000,JPY,25-03-2024,Japan,Credit Card,Electronics
+TRX_012,CUST_1011,robert@gmail,PROD_YZA567,3,$345.67,USD,03/26/2024,Canada,PayPal,Books
+TRX_012,CUST_1011,robert.taylor@gmail.com,PROD_YZA567,3,$345.67,,26/03/2024,CA,PayPal,Books
+TRX_013,CUST_1012,NULL,PROD_BCD890,1,€234.56,EUR,2024/03/27,France,Credit Card,Clothing
+TRX_014,CUST_1013,amanda.white,PROD_EFG123,2,$789.01,USD,28-03-2024,Australia,Bank Transfer,Home
+TRX_015,CUST_1001,john.doe@gmail.com,PROD_HIJ456,1,(123.45),USD,03/29/2024,United States,Credit Card,
+TRX_016,CUST_1014,,PROD_KLM789,4,"$2,345.67",USD,30/03/2024,U.S.A.,Debit Card,Electronics
+TRX_017,CUST_1015,maria.garcia@hotmail.com,PROD_NOP012,1,€567.89,EUR,31-03-2024,Spain,PayPal,Clothing
+TRX_018,CUST_1016,NULL,PROD_QRS345,2,£890.12,GBP,2024/04/01,England,Credit Card,Sports
+TRX_019,CUST_1017,james.brown@outlook,PROD_TUV678,1,$1234.56,USD,02/04/2024,United States of America,Credit Card,Electronics
+TRX_020,CUST_1018,sophia@yahoo.com,PROD_WXY901,0,$0.00,USD,2024-04-03,México,PayPal,Books
+TRX_021,CUST_1019,,PROD_ZAB234,-2,$456.78,USD,04-04-2024,India,Bank Transfer,Clothing
+TRX_022,CUST_1020,oliver.johnson@gmail.com,PROD_CDE567,1,€1234.56,EUR,05/04/2024,Netherlands,Credit Card,Electronics
+TRX_023,CUST_1001,john.doe@gmail.com,PROD_FGH890,3,"3,456.78",USD,2024/04/06,USA,Debit Card,Home & Garden
+TRX_024,CUST_1021,NULL,PROD_IJK123,1,$234.56,CAD,07-04-2024,Canada,PayPal,Toys
+TRX_025,CUST_1022,charlotte.davis@hotmail.com,PROD_LMN456,2,£345.67,GBP,08/04/2024,Scotland,Credit Card,Sports
+TRX_026,CUST_1023,,PROD_OPQ789,1,€456.78,EUR,2024-04-09,Belgique,Bank Transfer,Books
+TRX_027,CUST_1024,william.martinez@,PROD_RST012,99999,$67.89,USD,10/04/2024,us,Credit Card,Electronics
+TRX_028,CUST_1025,ava.rodriguez@yahoo.com,PROD_UVW345,2,$890.12,USD,04/11/2024,United States,PayPal,Clothing
+TRX_029,CUST_1026,NULL,PROD_XYZ678,1,"1234,56",EUR,12-04-2024,Italy,Debit Card,Home
+TRX_030,CUST_1027,lucas@outlook,PROD_ABC901,3,$345.00,USD,2024/04/13,U.S.,Credit Card,Toys
+TRX_030,CUST_1027,lucas.wilson@outlook.com,PROD_ABC901,3,$345,USD,13/04/2024,USA,Credit Card,Toys & Games
+TRX_031,CUST_1028,,PROD_DEF234,1,€234.56,EUR,14-04-2024,Deutschland,PayPal,Sports
+TRX_032,CUST_1029,mia.thomas@gmail.com,PROD_GHI567,0,$567.89,USD,2024-04-15,Aus,Bank Transfer,Electronics
+TRX_033,CUST_1030,NULL,PROD_JKL890,2,£678.90,GBP,16/04/2024,UK,Credit Card,Books
+TRX_034,CUST_1031,henry.anderson@hotmail.com,PROD_MNO123,1,$789.01,,04/17/2024,United States,Debit Card,Clothing
+TRX_035,CUST_1032,isabella.taylor,PROD_PQR456,1,€890.12,EUR,18-04-2024,Espana,PayPal,Home & Garden
+TRX_036,CUST_1033,,PROD_STU789,4,"$1,234.56",USD,2024/04/19,CANADA,Credit Card,
+TRX_037,CUST_1034,alexander.moore@yahoo.com,PROD_VWX012,1,¥20000,JPY,20/04/2024,JP,Bank Transfer,Electronics
+TRX_038,CUST_1035,NULL,PROD_YZA345,2,$345.67,USD,21-04-2024,united states,PayPal,Toys
+TRX_039,CUST_1036,emily@gmail.com,PROD_BCD678,1,€456.78,EUR,2024-04-22,FR,Credit Card,Sports
+TRX_040,CUST_1037,daniel.jackson@outlook.com,PROD_EFG901,-5,$567.89,USD,23/04/2024,America,Debit Card,Books
